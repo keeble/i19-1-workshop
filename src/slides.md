@@ -2,7 +2,7 @@
 marp: true
 theme: rose-pine
 size: 16:9
-backgroundImage: url('assets/dls_blue.png')
+backgroundImage: url('../assets/dls_blue.png')
 style: |
   h1 {
     font-size: 4rem;
@@ -29,7 +29,7 @@ I19 EH-1 Remote Users Workshop February 2023
 ---
 ## What is ISPyB and why do we need it?
 
-![h:500px ](assets/ispyb_dc_graph.png)
+![h:500px ](https://github.com/keeble/i19-1-workshop/raw/main/assets/ispyb_dc_graph.png)
 
 ---
 ## And that's just the data collection
@@ -47,7 +47,7 @@ I19 EH-1 Remote Users Workshop February 2023
 
 ---
 ## Process Overview
-![h:300px ](assets/workflow.drawio.svg)
+![h:300px ](https://github.com/keeble/i19-1-workshop/raw/main/assets/workflow.drawio.svg)
 #### https://www.diamond.ac.uk/Instruments/Crystallography/I19/Manual/EH1.html
 
 
@@ -65,7 +65,7 @@ I19 EH-1 Remote Users Workshop February 2023
 
 ---
 ## A couple of definitions
-![w:1200](assets/christmas.drawio.svg)
+![w:1200](https://github.com/keeble/i19-1-workshop/raw/main/assets/christmas.drawio.svg)
 
 ---
 ## Step 2: Create the Shipment
@@ -109,7 +109,7 @@ The lab contact is the name and address of the person sending the samples to Dia
 
 ---
 # <!--fit--> Ship it
-![bg opacity](assets/ship-it.webp)
+![bg opacity](https://github.com/keeble/i19-1-workshop/raw/main/assets/ship-it.webp)
 
 ---
 # Using ISPyB during your experiment
@@ -117,7 +117,7 @@ The lab contact is the name and address of the person sending the samples to Dia
 
 ---
 During the visit you can see what's going on
-![w:800](assets/webcams.png)
+![w:800](https://github.com/keeble/i19-1-workshop/raw/main/assets/webcams.png)
 
 ---
 ## Data Collections Page, the distl plot
