@@ -14,10 +14,10 @@ style: |
     font-size: 1.8rem;
   }
   p {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     }
   li {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     color: var(--text);
   }
 ---
@@ -49,8 +49,6 @@ I19 EH-1 Remote Users Workshop February 2023
 ## Process Overview
 ![h:300px ](https://github.com/keeble/i19-1-workshop/raw/main/assets/workflow.drawio.svg)
 #### https://www.diamond.ac.uk/Instruments/Crystallography/I19/Manual/EH1.html
-
-
 
 --- 
 ## Step 1: Add Sample(s) to ERA
@@ -87,29 +85,39 @@ li {
 The lab contact is the name and address of the person sending the samples to Diamond
 
 ---
-### 2a:Create a lab contact
+### 2a: Create a lab contact
 ![bg left w:650px](https://www.diamond.ac.uk/dam/jcr:1d411fa3-56ed-43e3-9a6d-f2b2639eb229/LabContact-details1.2021-10-19-10-54-09.png)
 
 The lab contact is the name and address of the person sending the samples to Diamond
 
 ---
 ## 2b: Register Dewars
+Dewars need to be registered in the database to be usable. DLS-owned Dewars will already have been registered and so will have an identifier of the form
+
+`DLS-CY-00XX` 
+
+If you are using your own Dewar, you will need to register it yourself
 
 ---
 ## 2c: Create Shipment
+![](https://www.diamond.ac.uk/dam/jcr:16209158-a398-4f1b-947e-5787a456b771/Shipments.2021-10-19-10-54-09.png)
 
 ---
 ## Step 3: Add Samples to Shipment
+You've created a Shipment. Now lets add some samples to it
 
 ---
 ## 3a: Create Container
+![h:500](https://www.diamond.ac.uk/dam/jcr:2ca17415-6834-493f-9c8d-e24b097de302/ShipmentContents1.2021-10-19-10-54-09.png)
 
 ---
+![h:500 ](https://www.diamond.ac.uk/dam/jcr:056818ed-9825-4a65-936d-7ae8b3539fe7/Container-samples.2021-10-19-10-54-09.png)
 ## 3b: Put samples in Container
 
 ---
 # <!--fit--> Ship it
 ![bg opacity](https://github.com/keeble/i19-1-workshop/raw/main/assets/ship-it.webp)
+![bg](https://www.diamond.ac.uk/dam/jcr:c72b5a77-879a-41ca-98a1-79499ac9d97f/DewarLabel.2021-10-19-10-54-09.png)
 
 ---
 # Using ISPyB during your experiment
@@ -121,6 +129,7 @@ During the visit you can see what's going on
 
 ---
 ## Data Collections Page, the distl plot
+![](https://github.com/keeble/i19-1-workshop/raw/main/assets/dc.png)
 
 ---
 ## The concept of a data collection group
