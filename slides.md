@@ -2,7 +2,7 @@
 marp: true
 theme: rose-pine
 size: 16:9
-backgroundImage: url('dls_blue.png')
+backgroundImage: url('assets/dls_blue.png')
 style: |
   h1 {
     font-size: 4rem;
@@ -29,7 +29,7 @@ I19 EH-1 Remote Users Workshop February 2023
 ---
 ## What is ISPyB and why do we need it?
 
-![h:500px ](ispyb_dc_graph.png)
+![h:500px ](assets/ispyb_dc_graph.png)
 
 ---
 ## And that's just the data collection
@@ -47,7 +47,7 @@ I19 EH-1 Remote Users Workshop February 2023
 
 ---
 ## Process Overview
-![h:300px ](workflow.drawio.svg)
+![h:300px ](assets/workflow.drawio.svg)
 #### https://www.diamond.ac.uk/Instruments/Crystallography/I19/Manual/EH1.html
 
 
@@ -60,12 +60,12 @@ I19 EH-1 Remote Users Workshop February 2023
 3. Add an acronym
 
 ---
-## Step 1a: _Wait for ERA to be validated_
+## Step 1a: Wait for ERA to be validated
 ## (_...and then 3 hours more )_
 
 ---
 ## A couple of definitions
-![w:1200](christmas.drawio.svg)
+![w:1200](assets/christmas.drawio.svg)
 
 ---
 ## Step 2: Create the Shipment
@@ -109,16 +109,35 @@ The lab contact is the name and address of the person sending the samples to Dia
 
 ---
 # <!--fit--> Ship it
-![bg opacity](ship-it.webp)
+![bg opacity](assets/ship-it.webp)
 
 ---
-# Using ISPyB to inspect data
-
+# Using ISPyB during your experiment
+![bg opacity](https://yhatt-marp-cli-example.netlify.com/assets/gradient.jpg)
 
 ---
 During the visit you can see what's going on
-![w:800](webcams.png)
+![w:800](assets/webcams.png)
 
+---
+## Data Collections Page, the distl plot
 
+---
+## The concept of a data collection group
+
+---
+## the reciprocal lattice viewer
+
+---
+## Processing Summary
+
+--- 
+## Processing Outputs
+
+---
+## Imminent Improvements
+There are some improvements coming soon which should hopefully make ispyb _even more useful_ :+1:
+- Use the supplied formula in shelxt solve
+- Attach shelxt outputs correctly as processing outputs
 
 
