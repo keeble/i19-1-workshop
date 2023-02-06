@@ -125,23 +125,34 @@ You've created a Shipment. Now lets add some samples to it
 
 ---
 During the visit you can see what's going on
-![w:800](https://github.com/keeble/i19-1-workshop/raw/main/assets/webcams.png)
+![w:900](https://github.com/keeble/i19-1-workshop/raw/main/assets/webcams.png)
 
 ---
 ## Data Collections Page, the distl plot
-![](https://github.com/keeble/i19-1-workshop/raw/main/assets/dc.png)
+![w:1200](https://github.com/keeble/i19-1-workshop/raw/main/assets/dc.png)
 
 ---
 ## The concept of a data collection group
+![w:1200](https://github.com/keeble/i19-1-workshop/raw/main/assets/dcg.png)
 
 ---
 ## the reciprocal lattice viewer
+![w:1200](https://github.com/keeble/i19-1-workshop/raw/main/assets/rlv_button.png)
+
+---
+![bg](https://github.com/keeble/i19-1-workshop/raw/main/assets/rlv.png)
+
+---
+![bg](https://github.com/keeble/i19-1-workshop/raw/main/assets/rlv.png)
+Press h for help
 
 ---
 ## Processing Summary
+![w:1200](https://github.com/keeble/i19-1-workshop/raw/main/assets/processing.png)
 
 --- 
-## Processing Outputs
+## Dials / Processing output
+![w:1200](https://github.com/keeble/i19-1-workshop/raw/main/assets/dials.png)
 
 ---
 ## Imminent Improvements
