@@ -27,12 +27,12 @@ Dean Keeble
 I19 EH-1 Remote Users Workshop February 2023
 
 ---
-## What is ISPyB and why do we need it?
+## <!--fit--> What is ISPyB and why do we need it?
 
 ![h:500px ](https://github.com/keeble/i19-1-workshop/raw/main/assets/ispyb_dc_graph.png)
 
 ---
-## And that's just the data collection
+## And that's **just** the data collection
 - What _is_ this sample?
 - Where did it come from?
 - Whose is it?
@@ -48,7 +48,7 @@ I19 EH-1 Remote Users Workshop February 2023
 ---
 ## Process Overview
 ![h:300px ](https://github.com/keeble/i19-1-workshop/raw/main/assets/workflow.drawio.svg)
-#### https://www.diamond.ac.uk/Instruments/Crystallography/I19/Manual/EH1.html
+#### <!--fit--> https://www.diamond.ac.uk/Instruments/Crystallography/I19/Manual/EH1.html
 
 --- 
 ## Step 1: Add Sample(s) to ERA
@@ -58,8 +58,9 @@ I19 EH-1 Remote Users Workshop February 2023
 3. Add an acronym
 
 ---
-## Step 1a: Wait for ERA to be validated
-## (_...and then 3 hours more )_
+* ### Step 1a: Wait for ERA to be validated
+* ### Step 1b: Wait for 10 minutes past the next hour
+* ### Step 1c: Wait for another 20 minutes
 
 ---
 ## A couple of definitions
@@ -132,7 +133,7 @@ During the visit you can see what's going on
 ![w:900](https://github.com/keeble/i19-1-workshop/raw/main/assets/webcams.png)
 
 ---
-## Data Collections Page, the distl plot
+## The Data Collections Page
 ![w:1200](https://github.com/keeble/i19-1-workshop/raw/main/assets/dc.png)
 
 ---
