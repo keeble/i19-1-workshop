@@ -115,9 +115,13 @@ You've created a Shipment. Now lets add some samples to it
 ## 3b: Put samples in Container
 
 ---
-# <!--fit--> Ship it
+![bg right](https://www.diamond.ac.uk/dam/jcr:c72b5a77-879a-41ca-98a1-79499ac9d97f/DewarLabel.2021-10-19-10-54-09.png)
+1. Print the labels out
+2. Stick them to your Dewar
+
+---
+# <!--fit--> 3. Ship it
 ![bg opacity](https://github.com/keeble/i19-1-workshop/raw/main/assets/ship-it.webp)
-![bg](https://www.diamond.ac.uk/dam/jcr:c72b5a77-879a-41ca-98a1-79499ac9d97f/DewarLabel.2021-10-19-10-54-09.png)
 
 ---
 # Using ISPyB during your experiment
