@@ -159,9 +159,17 @@ Press h for help
 ![w:1200](https://github.com/keeble/i19-1-workshop/raw/main/assets/dials.png)
 
 ---
+![bg opacity](https://yhatt-marp-cli-example.netlify.com/assets/gradient.jpg)
+## Live Demo Time!
+
+---
 ## Imminent Improvements
 There are some improvements coming soon which should hopefully make ispyb _even more useful_ :+1:
 - Use the supplied formula in shelxt solve
 - Attach shelxt outputs correctly as processing outputs
 
-
+---
+# An introduction to ISPyB
+![bg opacity](https://yhatt-marp-cli-example.netlify.com/assets/gradient.jpg)
+Dean Keeble
+I19 EH-1 Remote Users Workshop February 2023
