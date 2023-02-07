@@ -142,11 +142,11 @@ During the visit you can see what's going on
 ![w:1200](https://github.com/keeble/i19-1-workshop/raw/main/assets/dc.png)
 
 ---
-## The concept of a data collection group
+## Data Collection Groups
 ![w:1200](https://github.com/keeble/i19-1-workshop/raw/main/assets/dcg.png)
 
 ---
-## the reciprocal lattice viewer
+## The Reciprocal Lattice Viewer
 ![w:1200](https://github.com/keeble/i19-1-workshop/raw/main/assets/rlv_button.png)
 
 ---
