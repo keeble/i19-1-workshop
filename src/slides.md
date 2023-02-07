@@ -166,8 +166,14 @@ Press h for help
 ![w:1200](https://github.com/keeble/i19-1-workshop/raw/main/assets/dials.png)
 
 ---
+<style scoped>
+p {
+   font-size: 0.5rem;
+}
+</style>
 ![bg opacity](https://yhatt-marp-cli-example.netlify.com/assets/gradient.jpg)
-## Live Demo Time!
+## [Live Demo Time!](https://ispyb.diamond.ac.uk/dc/visit/cy33992-1)
+Important numbers: (33992, 21953)
 
 ---
 ## Imminent Improvements
