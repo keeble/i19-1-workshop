@@ -122,6 +122,7 @@ You've created a Shipment. Now lets add some samples to it
 
 ---
 ![bg right](https://www.diamond.ac.uk/dam/jcr:c72b5a77-879a-41ca-98a1-79499ac9d97f/DewarLabel.2021-10-19-10-54-09.png)
+## Step 4: Ship it
 1. Print the labels out
 2. Stick them to your Dewar
 
