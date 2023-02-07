@@ -27,16 +27,17 @@ Dean Keeble
 I19 EH-1 Remote Users Workshop February 2023
 
 ---
-## <!--fit--> What is ISPyB and why do we need it?
+## What is ISPyB?
+ISPyB is our **L**aboratory **I**nformation **M**anagement **S**ystem
 
-![h:500px ](https://github.com/keeble/i19-1-workshop/raw/main/assets/ispyb_dc_graph.png)
+It helps us keep track of: 
+- Samples
+- Data Collections
+- Logistics
+- and more! 
 
 ---
-## And that's **just** the data collection
-- What _is_ this sample?
-- Where did it come from?
-- Whose is it?
-- What did the results look like?
+![bg w:1268](https://github.com/keeble/i19-1-workshop/raw/main/assets/ispyb_dc_graph.png)
 
 ---
 ### ISPyB is:
@@ -44,6 +45,10 @@ I19 EH-1 Remote Users Workshop February 2023
 
 ### ISPyB is not:
 :o: specifically made for small molecule crystallography
+
+---
+![bg opacity](https://yhatt-marp-cli-example.netlify.com/assets/gradient.jpg)
+# Before Your Experiment
 
 ---
 ## Process Overview
@@ -125,7 +130,7 @@ You've created a Shipment. Now lets add some samples to it
 ![bg opacity](https://github.com/keeble/i19-1-workshop/raw/main/assets/ship-it.webp)
 
 ---
-# Using ISPyB during your experiment
+# During Your Experiment
 ![bg opacity](https://yhatt-marp-cli-example.netlify.com/assets/gradient.jpg)
 
 ---
